@@ -7,4 +7,5 @@ package cc.wangdl.mylucene;
  * Copyright (c) 2018, ewell.com All Rights Reserved.
  */
 public class MainEntry {
+
 }
